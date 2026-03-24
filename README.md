@@ -1,5 +1,9 @@
 # 🎮 Tic Tac Toe Game
 
+## 🌐 Live Demo
+
+👉 [https://jaikaran109.github.io/Tic-Tac-Toe/](https://jaikaran109.github.io/Tic-Tac-Toe/)
+
 A simple and responsive Tic Tac Toe game built using **HTML, CSS, and JavaScript**.
 
 ---
